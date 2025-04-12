@@ -1,6 +1,7 @@
 com\mycompany\quanlykhachsan\model\Employee.class
 com\mycompany\quanlykhachsan\model\ServiceUsage.class
 com\mycompany\quanlykhachsan\model\EquipmentUsage.class
+view\CheckoutPanelFull.class
 com\mycompany\quanlykhachsan\model\DashboardWindow.class
 com\mycompany\quanlykhachsan\model\Room.class
 com\mycompany\quanlykhachsan\model\RoomType.class
@@ -15,4 +16,3 @@ view\CustomerManagementUI.class
 view\MainWindow$1.class
 com\mycompany\quanlykhachsan\model\Customer.class
 com\mycompany\quanlykhachsan\model\UserDatabase.class
-view\CheckoutPanel.class
